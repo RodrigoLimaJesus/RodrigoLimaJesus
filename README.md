@@ -11,7 +11,7 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
 <br>
 
 <div style="
-  background-color:rgb(245,245,245);
+  background-color: rgb(245,245,245);
   display:flex;
   flex-wrap:wrap;
   justify-content:space-around;
@@ -20,8 +20,8 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
   border: solid 2px rgb(10,10,10);
   ">
 
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react">
-  <code style="padding:10px; background-color:rgb(245,245,245)">
+  <code style="padding:10px;">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react">
   </code>
 
   <code style="padding:10px">
@@ -29,7 +29,7 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
   </code>
 
   <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" title="nextjs" alt="nextjs">
+    <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NextJS-Light.svg" title="nextjs" alt="nextjs">
   </code>
 
   <code style="padding:10px">
@@ -85,7 +85,7 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
   </code>
   
   <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github">
+    <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Github-Light.svg" title="github" alt="github">
   </code>
   
   <code style="padding:10px">
