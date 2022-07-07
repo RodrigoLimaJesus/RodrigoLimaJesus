@@ -20,7 +20,7 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
   border: solid 2px rgb(10,10,10);
   ">
 
-  <code style="padding:10px">
+  <code style="padding:10px; background-color:rgb(245,245,245)">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react">
   </code>
 
