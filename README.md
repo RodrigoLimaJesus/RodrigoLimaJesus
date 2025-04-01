@@ -22,81 +22,25 @@ Quer dar uma olhada no meu portfólio? <a href="https://rodrigolimajesus.vercel.
   border: solid 2px rgb(10,10,10);
   ">
 
-  <code style="padding:10px;">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NextJS-Light.svg" title="nextjs" alt="nextjs">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="javascript" alt="javascript">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html5" alt="html5">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="css3" alt="css3">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/StyledComponents.svg" title="styled components" alt="styled components">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="mysql" alt="mysql">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize">
-  </code>
-
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="redux" alt="redux">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Github-Light.svg" title="github" alt="github">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" title="heroku" alt="heroku">
-  </code>
-  
-  <code style="padding:10px">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="trello" alt="trello">
-  </code>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NextJS-Light.svg" title="nextjs" alt="nextjs">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="javascript" alt="javascript">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html5" alt="html5">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="css3" alt="css3">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/StyledComponents.svg" title="styled components" alt="styled components">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="mysql" alt="mysql">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="redux" alt="redux">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Github-Light.svg" title="github" alt="github">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" title="heroku" alt="heroku">
+  <img margin="10" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="trello" alt="trello">
 
 </div>
 
